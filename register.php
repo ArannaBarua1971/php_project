@@ -69,7 +69,6 @@
                 ?>
         </div>
         <div class="d-flex align-items-start">
-            <div class="ml-auto"> <a href="login.php" id="forgot">register now?</a> </div>
         </div> <button class="btn btn-block text-center my-3">Log in</button>
     </form>
 </div>

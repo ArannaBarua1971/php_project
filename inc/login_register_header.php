@@ -16,6 +16,11 @@
             margin: 0;
             box-sizing: border-box
         }
+        .d_ab{
+            position:absolute;
+            top:40px;
+            right:20px;
+        }
         .toast{
             position:absolute;
             right:20px;

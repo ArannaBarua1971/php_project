@@ -74,7 +74,7 @@
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
-          <li><a href="register.php">login/signup</a></li>
+          <li><a href="login.php">login/signup</a></li>
         </ul>
       </nav><!-- .navbar -->
 
